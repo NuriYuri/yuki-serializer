@@ -1,0 +1,33 @@
+
+pokemonsdk/scripts/00800 Studio/00001 Data/00001 Ability.rb
+pokemonsdk/scripts/00800 Studio/00001 Data/00011 Group.rb
+pokemonsdk/scripts/00800 Studio/00001 Data/00021 Item.rb
+pokemonsdk/scripts/00800 Studio/00001 Data/00031 Move.rb
+pokemonsdk/scripts/00800 Studio/00001 Data/00041 Creature.rb
+pokemonsdk/scripts/00800 Studio/00001 Data/00042 CreatureForm.rb
+pokemonsdk/scripts/00800 Studio/00001 Data/00043 Dex.rb
+pokemonsdk/scripts/00800 Studio/00001 Data/00051 Quest.rb
+pokemonsdk/scripts/00800 Studio/00001 Data/00061 Trainer.rb
+pokemonsdk/scripts/00800 Studio/00001 Data/00071 Type.rb
+pokemonsdk/scripts/00800 Studio/00001 Data/00081 WorldMap.rb
+pokemonsdk/scripts/00800 Studio/00001 Data/00091 Zone.rb
+pokemonsdk/scripts/00800 Studio/00001 Data/00092 MapLink.rb
+pokemonsdk/scripts/00800 Studio/00001 Data/00002 Item/00000 ItemDescriptor.rb
+pokemonsdk/scripts/00800 Studio/00001 Data/00002 Item/00001 EventItem.rb
+pokemonsdk/scripts/00800 Studio/00001 Data/00002 Item/00001 FleeingItem.rb
+pokemonsdk/scripts/00800 Studio/00001 Data/00002 Item/00001 RepelItem.rb
+pokemonsdk/scripts/00800 Studio/00001 Data/00002 Item/00001 StoneItem.rb
+pokemonsdk/scripts/00800 Studio/00001 Data/00002 Item/00001 TechItem.rb
+pokemonsdk/scripts/00800 Studio/00001 Data/00002 Item/00002 BallItem.rb
+pokemonsdk/scripts/00800 Studio/00001 Data/00002 Item/00003 HealingItem.rb
+pokemonsdk/scripts/00800 Studio/00001 Data/00002 Item/00300 ConstantHealItem.rb
+pokemonsdk/scripts/00800 Studio/00001 Data/00002 Item/00300 LevelIncreaseItem.rb
+pokemonsdk/scripts/00800 Studio/00001 Data/00002 Item/00300 PPHealItem.rb
+pokemonsdk/scripts/00800 Studio/00001 Data/00002 Item/00300 PPIncreaseItem.rb
+pokemonsdk/scripts/00800 Studio/00001 Data/00002 Item/00300 RateHealItem.rb
+pokemonsdk/scripts/00800 Studio/00001 Data/00002 Item/00300 StatBoostItem.rb
+pokemonsdk/scripts/00800 Studio/00001 Data/00002 Item/00300 StatusHealItem.rb
+pokemonsdk/scripts/00800 Studio/00001 Data/00002 Item/00301 AllPPHealItem.rb
+pokemonsdk/scripts/00800 Studio/00001 Data/00002 Item/00301 EVBoostItem.rb
+pokemonsdk/scripts/00800 Studio/00001 Data/00002 Item/00301 StatusConstantHealItem.rb
+pokemonsdk/scripts/00800 Studio/00001 Data/00002 Item/00301 StatusRateHealItem.rb
